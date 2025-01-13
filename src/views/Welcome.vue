@@ -67,6 +67,6 @@ onMounted(() => {
 
 <style>
 .dark {
-  @apply bg-gray-900;
+  background-color: #1a202c; 
 }
 </style>

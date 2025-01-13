@@ -79,7 +79,7 @@
           <img src="@/assets/crew-images/chopper.png" alt="Chopper" class="crew-image" />
         </div>
         <div class="crew-container">
-          <img src="@/assets/crew-images/robin.png" alt="Robin" class="crew-image" />
+          <img src="@/assets/crew-images/robine.png" alt="Robin" class="crew-image" />
         </div>
         <div class="crew-container">
           <img src="@/assets/crew-images/franky.png" alt="Franky" class="crew-image" />

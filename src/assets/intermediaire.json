@@ -1,0 +1,268 @@
+{
+  "quiz": {
+    "title": "Quiz One Piece : De la Guerre de Marineford à Egghead",
+    "questions": [
+      {
+        "question": "Qui est capturé par la Marine et amené à Marineford pour être exécuté ?",
+        "choices": [
+          { "choice": "Luffy", "isCorrect": false },
+          { "choice": "Ace", "isCorrect": true },
+          { "choice": "Zoro", "isCorrect": false },
+          { "choice": "Sanji", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui sont les trois Amiraux de la Marine présents à Marineford pendant la guerre ?",
+        "choices": [
+          { "choice": "Kizaru, Akainu, Aokiji", "isCorrect": true },
+          { "choice": "Fujitora, Ryokugyu, Kizaru", "isCorrect": false },
+          { "choice": "Akainu, Aokiji, Fujitora", "isCorrect": false },
+          { "choice": "Kizaru, Ryokugyu, Aokiji", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui intervient pour mettre fin à la guerre à Marineford ?",
+        "choices": [
+          { "choice": "Shanks", "isCorrect": true },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Barbe Noire", "isCorrect": false },
+          { "choice": "Dragon", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel événement tragique se produit pendant la bataille de Marineford ?",
+        "choices": [
+          { "choice": "La mort de Barbe Blanche", "isCorrect": false },
+          { "choice": "La mort de Ace", "isCorrect": true },
+          { "choice": "La mort de Barbe Noire", "isCorrect": false },
+          { "choice": "La mort de Shanks", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui sont les alliés de Luffy qui l'aident pendant la bataille de Marineford ?",
+        "choices": [
+          { "choice": "Ivankov, Inazuma, Crocodile", "isCorrect": false },
+          { "choice": "Zoro, Sanji, Nami", "isCorrect": false },
+          { "choice": "Buggy, Mr. 3, Jinbe", "isCorrect": false },
+          { "choice": "Toutes les réponses ci-dessus", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Qui est le scientifique résidant sur l'île d'Egghead ?",
+        "choices": [
+          { "choice": "Dr. Vegapunk", "isCorrect": true },
+          { "choice": "Dr. Franky", "isCorrect": false },
+          { "choice": "Dr. Chopper", "isCorrect": false },
+          { "choice": "Dr. Caesar", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel personnage a une connexion particulière avec Dr. Vegapunk et cherche à se venger de lui ?",
+        "choices": [
+          { "choice": "Jewelry Bonney", "isCorrect": true },
+          { "choice": "Nami", "isCorrect": false },
+          { "choice": "Robin", "isCorrect": false },
+          { "choice": "Zoro", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel événement majeur se produit sur l'île d'Egghead ?",
+        "choices": [
+          { "choice": "La rencontre avec Dr. Vegapunk", "isCorrect": false },
+          { "choice": "La découverte d'une nouvelle technologie", "isCorrect": false },
+          { "choice": "La bataille contre les Seraphim", "isCorrect": false },
+          { "choice": "La révélation du passé de Bartholomew Kuma", "isCorrect": true }
+        ]
+      },
+      {
+        "question": "Qui sont les officiers de la Marine présents sur l'île d'Egghead ?",
+        "choices": [
+          { "choice": "Helmeppo, Tashigi, Rear Admiral Prince Grus", "isCorrect": true },
+          { "choice": "Smoker, Tashigi, Koby", "isCorrect": false },
+          { "choice": "Fujitora, Ryokugyu, Kizaru", "isCorrect": false },
+          { "choice": "Akainu, Aokiji, Kizaru", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel personnage décide de ne pas rejoindre l'équipage de Luffy pour protéger Wano ?",
+        "choices": [
+          { "choice": "Yamato", "isCorrect": true },
+          { "choice": "Marco", "isCorrect": false },
+          { "choice": "Jinbe", "isCorrect": false },
+          { "choice": "Zoro", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom de la guerre qui a lieu à Marineford ?",
+        "choices": [
+          { "choice": "La Guerre des Marines", "isCorrect": false },
+          { "choice": "La Guerre de Marineford", "isCorrect": true },
+          { "choice": "La Guerre des Pirates", "isCorrect": false },
+          { "choice": "La Guerre de l'Alliance", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est l'objectif principal de Barbe Blanche pendant la guerre ?",
+        "choices": [
+          { "choice": "Sauver Ace", "isCorrect": true },
+          { "choice": "Devenir le Roi des Pirates", "isCorrect": false },
+          { "choice": "Venger son équipage", "isCorrect": false },
+          { "choice": "Défendre son territoire", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel personnage est connu pour avoir trahi Barbe Blanche pendant la guerre ?",
+        "choices": [
+          { "choice": "Barbe Noire", "isCorrect": true },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Akainu", "isCorrect": false },
+          { "choice": "Kizaru", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom de l'île où se déroule l'arc Egghead ?",
+        "choices": [
+          { "choice": "Île de Drum", "isCorrect": false },
+          { "choice": "Île de Wano", "isCorrect": false },
+          { "choice": "Île d'Egghead", "isCorrect": true },
+          { "choice": "Île de Sabaody", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui est le principal antagoniste de l'arc Egghead ?",
+        "choices": [
+          { "choice": "Dr. Vegapunk", "isCorrect": false },
+          { "choice": "Barbe Noire", "isCorrect": true },
+          { "choice": "Akainu", "isCorrect": false },
+          { "choice": "Kizaru", "isCorrect": false }
+        ]
+      },
+      {
+        "question": " Quel personnage est révélé être un ancien membre de l'équipage de Barbe Blanche pendant l'arc Egghead ?",
+        "choices": [
+          { "choice": "Marco", "isCorrect": true },
+          { "choice": "Ace", "isCorrect": false },
+          { "choice": "Jinbe", "isCorrect": false },
+          { "choice": "Buggy", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le fruit du démon de Barbe Blanche ?",
+        "choices": [
+          { "choice": "Gura Gura no Mi", "isCorrect": true },
+          { "choice": "Mera Mera no Mi", "isCorrect": false },
+          { "choice": "Yami Yami no Mi", "isCorrect": false },
+          { "choice": "Hie Hie no Mi", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui est le père de Luffy ?",
+        "choices": [
+          { "choice": "Monkey D. Dragon", "isCorrect": true },
+          { "choice": "Monkey D. Garp", "isCorrect": false },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Ace", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom du fruit du démon de Luffy ?",
+        "choices": [
+          { "choice": "Gomu Gomu no Mi", "isCorrect": true },
+          { "choice": "Hito Hito no Mi", "isCorrect": false },
+          { "choice": "Mera Mera no Mi", "isCorrect": false },
+          { "choice": "Yami Yami no Mi", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Combien de commandants de Barbe Blanche sont morts pendant la Guerre de Marineford ?",
+        "choices": [
+          { "choice": "3", "isCorrect": false },
+          { "choice": "4", "isCorrect": true },
+          { "choice": "5", "isCorrect": false },
+          { "choice": "6", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a donné à Luffy son chapeau de paille ?",
+        "choices": [
+          { "choice": "Roger", "isCorrect": false },
+          { "choice": "Shanks", "isCorrect": true },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Dragon", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel Amiral tue Ace pendant la Guerre de Marineford ?",
+        "choices": [
+          { "choice": "Aokiji", "isCorrect": false },
+          { "choice": "Kizaru", "isCorrect": false },
+          { "choice": "Akainu", "isCorrect": true },
+          { "choice": "Sengoku", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui est le capitaine des Newgate Pirates après la mort de Barbe Blanche ?",
+        "choices": [
+          { "choice": "Marco", "isCorrect": true },
+          { "choice": "Ace", "isCorrect": false },
+          { "choice": "Barbe Noire", "isCorrect": false },
+          { "choice": "Vista", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Combien de clones de Seraphim sont présents sur l'île d'Egghead ?",
+        "choices": [
+          { "choice": "4", "isCorrect": false },
+          { "choice": "5", "isCorrect": false },
+          { "choice": "6", "isCorrect": true },
+          { "choice": "7", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui est le principal scientifique qui a créé les Seraphim ?",
+        "choices": [
+          { "choice": "Dr. Caesar", "isCorrect": false },
+          { "choice": "Dr. Vegapunk", "isCorrect": true },
+          { "choice": "Vinsmoke Judge", "isCorrect": false },
+          { "choice": "Franky", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Comment Barbe Blanche est-il mort pendant la Guerre de Marineford ?",
+        "choices": [
+          { "choice": "Tué par Akainu", "isCorrect": false },
+          { "choice": "Atta qué par de multiples commandants de la Marine", "isCorrect": true },
+          { "choice": "Suicide", "isCorrect": false },
+          { "choice": "Tué par Barbe Noire", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel personnage aide Luffy à s'échapper de Marineford ?",
+        "choices": [
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Jinbe", "isCorrect": true },
+          { "choice": "Marco", "isCorrect": false },
+          { "choice": "Buggy", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le statut de Bartholomew Kuma à la fin de l'arc Egghead ?",
+        "choices": [
+          { "choice": "Complètement robotisé", "isCorrect": false },
+          { "choice": "Mort", "isCorrect": false },
+          { "choice": "Libéré de son contrôle", "isCorrect": true },
+          { "choice": "Toujours sous le contrôle de la Marine", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui est le principal allié de la Marine sur l'île d'Egghead ?",
+        "choices": [
+          { "choice": "Akainu", "isCorrect": false },
+          { "choice": "Kizaru", "isCorrect": false },
+          { "choice": "Helmeppo", "isCorrect": true },
+          { "choice": "Smoker", "isCorrect": false }
+        ]
+      }
+    ]
+  }
+}

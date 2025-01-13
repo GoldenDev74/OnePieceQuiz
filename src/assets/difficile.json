@@ -1,0 +1,206 @@
+
+{
+  "quiz": {
+    "title": "Quiz One Piece : Origines et Légendes (Niveau Difficile)",
+    "questions": [
+      {
+        "question": "Qui était le capitaine de l'équipage des Rocks ?",
+        "choices": [
+          { "choice": "Rocks D. Xebec", "isCorrect": true },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Gol D. Roger", "isCorrect": false },
+          { "choice": "Kaido", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel était le premier opening de l'anime One Piece ?",
+        "choices": [
+          { "choice": "We Are!", "isCorrect": true },
+          { "choice": "Bon Voyage!", "isCorrect": false },
+          { "choice": "Share the World", "isCorrect": false },
+          { "choice": "Fight Together", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a vaincu l'équipage des Rocks lors de l'incident de God Valley ?",
+        "choices": [
+          { "choice": "Garp et Roger", "isCorrect": true },
+          { "choice": "Shanks et Buggy", "isCorrect": false },
+          { "choice": "Barbe Blanche et Kaido", "isCorrect": false },
+          { "choice": "Dragon et Garp", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le premier ending de l'anime One Piece ?",
+        "choices": [
+          { "choice": "Memories", "isCorrect": true },
+          { "choice": "Eternal Pose", "isCorrect": false },
+          { "choice": "Dear Friends", "isCorrect": false },
+          { "choice": "Shining Ray", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui était le commandant de l'équipage des Rocks à cette époque ?",
+        "choices": [
+          { "choice": "Barbe Blanche", "isCorrect": true },
+          { "choice": "Kaido", "isCorrect": false },
+          { "choice": "Big Mom", "isCorrect": false },
+          { "choice": "Shanks", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom du navire de Gol D. Roger ?",
+        "choices": [
+          { "choice": "Oro Jackson", "isCorrect": true },
+          { "choice": "Moby Dick", "isCorrect": false },
+          { "choice": "Thousand Sunny", "isCorrect": false },
+          { "choice": "Going Merry", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui était le second de Gol D. Roger ?",
+        "choices": [
+          { "choice": "Rayleigh", "isCorrect": true },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Buggy", "isCorrect": false },
+          { "choice": "Crocus", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel opening célèbre le 20ème anniversaire de l'anime ?",
+        "choices": [
+          { "choice": "Hope", "isCorrect": true },
+          { "choice": "We Are!", "isCorrect": false },
+          { "choice": "Dreamin'", "isCorrect": false },
+          { "choice": "Fight Together", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a donné le fruit du démon Gomu Gomu à Luffy ?",
+        "choices": [
+          { "choice": "Shanks", "isCorrect": true },
+          { "choice": "Rayleigh", "isCorrect": false },
+          { "choice": "Dragon", "isCorrect": false },
+          { "choice": "Garp", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le dernier ending de la première partie de l'anime ?",
+        "choices": [
+          { "choice": "Eternal Pose", "isCorrect": true },
+          { "choice": "Memories", "isCorrect": false },
+          { "choice": "Dear Friends", "isCorrect": false },
+          { "choice": "Shining Ray", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a battu Shiki le Lion d'Or avant le début de l'histoire ?",
+        "choices": [
+          { "choice": "Gol D. Roger", "isCorrect": true },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Monkey D. Garp", "isCorrect": false },
+          { "choice": "Sengoku", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est l'opening qui marque le début de l'arc de Marineford ?",
+        "choices": [
+          { "choice": "Share the World", "isCorrect": true },
+          { "choice": "We Are!", "isCorrect": false },
+          { "choice": "Fight Together", "isCorrect": false },
+          { "choice": "Bon Voyage!", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui était le rival de Gol D. Roger ?",
+        "choices": [
+          { "choice": "Barbe Blanche", "isCorrect": true },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Kaido", "isCorrect": false },
+          { "choice": "Big Mom", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le premier ending post-time skip ?",
+        "choices": [
+          { "choice": "Memories of Everything", "isCorrect": true },
+          { "choice": "Shining Ray", "isCorrect": false },
+          { "choice": "Eternal Pose", "isCorrect": false },
+          { "choice": "Dear Friends", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a formé Shanks et Buggy ?",
+        "choices": [
+          { "choice": "Gol D. Roger", "isCorrect": true },
+          { "choice": "Rayleigh", "isCorrect": false },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Monkey D. Garp", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est l'opening qui accompagne l'arc de Whole Cake Island ?",
+        "choices": [
+          { "choice": "Hikari Are", "isCorrect": true },
+          { "choice": "We Go!", "isCorrect": false },
+          { "choice": "Brand New World", "isCorrect": false },
+          { "choice": "Fight Together", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a donné à Gol D. Roger le surnom de 'Roi des Pirates' ?",
+        "choices": [
+          { "choice": "Barbe Blanche", "isCorrect": true },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Rayleigh", "isCorrect": false },
+          { "choice": "Sengoku", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est l'ending qui parle de l'amitié et des souvenirs ?",
+        "choices": [
+          { "choice": "Dear Friends", "isCorrect": true },
+          { "choice": "Memories", "isCorrect": false },
+          { "choice": "Eternal Pose", "isCorrect": false },
+          { "choice": "Shining Ray", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom du fruit du démon que Shiki possédait ?",
+        "choices": [
+          { "choice": "Fuwa Fuwa no Mi", "isCorrect": true },
+          { "choice": "Gomu Gomu no Mi", "isCorrect": false },
+          { "choice": "Mera Mera no Mi", "isCorrect": false },
+          { "choice": "Yami Yami no Mi", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Qui a été le premier à découvrir le One Piece ?",
+        "choices": [
+          { "choice": "Gol D. Roger", "isCorrect": true },
+          { "choice": "Barbe Blanche", "isCorrect": false },
+          { "choice": "Shanks", "isCorrect": false },
+          { "choice": "Monkey D. Luffy", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom de l'arc qui introduit le personnage de Rayleigh ?",
+        "choices": [
+          { "choice": "Sabaody", "isCorrect": true },
+          { "choice": "Water 7", "isCorrect": false },
+          { "choice": "Enies Lobby", "isCorrect": false },
+          { "choice": "Dressrosa", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom du groupe de pirates qui a défié Gol D. Roger ?",
+        "choices": [
+          { "choice": "Rocks Pirates", "isCorrect": true },
+          { "choice": "Baroque Works", "isCorrect": false },
+          { "choice": "Red-Haired Pirates", "isCorrect": false },
+          { "choice": "Blackbeard Pirates", "isCorrect": false }
+        ]
+      }
+    ]
+  }
+}

@@ -59,12 +59,6 @@
     <circle cx="40" cy="45" r="5" fill="black"/>
     <circle cx="60" cy="45" r="5" fill="black"/>
   </svg>
-
-  <svg v-else-if="name === 'jinbe'" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="crew-svg">
-    <!-- Vague -->
-    <path d="M20 50 Q35 30 50 50 Q65 70 80 50" fill="none" stroke="#0000CD" stroke-width="4"/>
-    <path d="M20 60 Q35 40 50 60 Q65 80 80 60" fill="none" stroke="#4169E1" stroke-width="4"/>
-  </svg>
 </template>
 
 <script setup>

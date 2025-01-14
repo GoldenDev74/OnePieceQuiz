@@ -30,7 +30,7 @@ const crewImages = [
   { src: new URL('../assets/crew-images/sanji.png', import.meta.url).href, alt: 'Sanji' },
   { src: new URL('../assets/crew-images/chopper.png', import.meta.url).href, alt: 'Chopper' },
   { src: new URL('../assets/crew-images/robin.png', import.meta.url).href, alt: 'Robin' },
-  { src: new URL('../assets/crew-images/franky.png', import.meta.url).href, alt: 'Franky' }
+  { src: new URL('../assets/crew-images/brook.png', import.meta.url).href, alt: 'Brook' },
 ]
 
 const currentIndex = ref(0)

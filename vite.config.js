@@ -20,7 +20,8 @@ export default defineConfig({
       // https://rollupjs.org/configuration-options/
       input: {
         main: resolve(__dirname, 'index.html'),
-        nested: resolve(__dirname, 'nested/index.html'),
+        // Supprimez ou commentez la ligne suivante si vous n'avez pas besoin de nested/index.html
+        // nested: resolve(__dirname, 'nested/index.html'),
       },
     },
   },

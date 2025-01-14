@@ -4,10 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "test:unit": "vitest"
+    "preview": "vite preview"
   },
   "dependencies": {
     "canvas-confetti": "^1.9.3",

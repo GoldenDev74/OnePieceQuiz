@@ -12,7 +12,17 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url))
+      '@': resolve(__dirname, 'src'),
+    },
+  },
+
+  build: {
+    rollupOptions: {
+      // https://rollupjs.org/configuration-options/
+      input: {
+        main: resolve(__dirname, 'index.html'),
+        nested: resolve(__dirname, 'nested/index.html'),
+      },
     },
   },
 })
